@@ -1,0 +1,24 @@
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "cookbooks/database"]
+	path = cookbooks/database
+	url = git://github.com/opscode-cookbooks/database.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "cookbooks/yum-epel"]
+	path = cookbooks/yum-epel
+	url = git://github.com/opscode-cookbooks/yum-epel.git
+[submodule "cookbooks/yum-repoforge"]
+	path = cookbooks/yum-repoforge
+	url = git://github.com/opscode-cookbooks/yum-repoforge.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git://github.com/opscode-cookbooks/yum.git
