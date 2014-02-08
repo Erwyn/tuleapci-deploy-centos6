@@ -1,3 +1,12 @@
+To work with this repository
+============================
+
+$> git submodule init
+$> git submodule update
+
+On deployement
+==============
+
 On a fresh machine:
 
 #1 install chef
