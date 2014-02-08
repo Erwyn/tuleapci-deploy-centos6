@@ -4,6 +4,8 @@ On a fresh machine:
    
     curl -L https://www.opscode.com/chef/install.sh | bash
 
-#2 run chef-solo:
+#2 copy node.json.dist and adapt to your environment
+
+#3 run chef-solo:
 
     chef-solo -c solo.rb -j node.json
