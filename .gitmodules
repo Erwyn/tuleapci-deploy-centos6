@@ -25,3 +25,6 @@
 [submodule "cookbooks/tuleapci"]
 	path = cookbooks/tuleapci
 	url = https://github.com/vaceletm/tuleapci-chef-cookbook
+[submodule "cookbooks/sudo"]
+	path = cookbooks/sudo
+	url = https://github.com/opscode-cookbooks/sudo.git
